@@ -40,11 +40,7 @@ A high-density, utility-first academic resource portal built for university stud
 ---
 
 ### 📊 Stats & Competitive Programming
-
-### 📊 Stats & Competitive Programming
-
-### 📊 Stats & Competitive Programming
-
+ 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://leetcode-badge.vercel.app/api/users/rYrU39As8y" alt="LeetCode Stats" width="48%" />
