@@ -32,7 +32,7 @@ Passionate about building scalable web applications, sleek user interfaces, and 
 
 ### 🌟 Featured Project
 
-#### 🎓 [Campus Resource Hub](https://github.com/YOUR_USERNAME/campus-resource-hub)
+#### 🎓 [Campus Resource Hub](https://github.com/nishantp0229/Campus-Resource-hub)
 A high-density, utility-first academic resource portal built for university students to share notes, PYQs, and lab manuals.
 - **Tech:** Next.js 14, Supabase (Realtime & Storage), TypeScript, Tailwind CSS.
 - **Features:** Real-time upvoting system, department/semester multi-filters, document storage pipeline, and local bookmarking.
