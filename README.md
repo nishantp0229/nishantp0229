@@ -1,6 +1,6 @@
 # Hi there, I'm NishantGG 👋
 
-### 🚀 Full-Stack Developer & Product Builder
+### 🚀 Full-Stack Developer 
 Passionate about building scalable web applications, sleek user interfaces, and high-performance developer tools. Currently focused on Next.js, TypeScript, and modern backend architectures.
 
 ---
