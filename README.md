@@ -1,6 +1,6 @@
 # Hi there, I'm NishantGG 👋
 
-### 🚀 Full-Stack Developer 
+### I am a student and Full-Stack Developer & DevOps Engineer
 Passionate about building scalable web applications, sleek user interfaces, and high-performance developer tools. Currently focused on Next.js, TypeScript, and modern backend architectures.
 
 ---
