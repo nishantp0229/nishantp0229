@@ -6,7 +6,7 @@
 
 - 🎓 **I'm a 1st-year student and aspiring Full-Stack Developer & Cloud DevOps Engineer.**
 - 💻 **My core foundations are in Java, HTML, Git, and VS Code.**
-- 🌐 **Currently learning modern web development with JavaScript and CSS.**
+- 🌐 **Currently learning modern web development with JavaScript and Tailwind CSS.**
 - ☁️ **Aiming to explore Cloud Computing, AWS, and Computer Networking as I build my foundation.**
 
 ---
@@ -24,7 +24,7 @@
 <p align="center">
   <b>Web Development (Learning)</b><br>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <p align="center">
